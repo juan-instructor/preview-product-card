@@ -55,4 +55,8 @@ There is also a `style-guide.md` file containing the information you'll need, su
 6 directories, 10 files
 ```
 
+## Authoring the page
+
+Use `semantic` HTML and avoid `div` soups!
+
 **Have fun building!** 🚀
